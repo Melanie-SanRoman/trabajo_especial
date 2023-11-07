@@ -4,7 +4,7 @@ Integrantes:
     Melanie San Roman.
     Emanuel San Roman.
     Micaela Nicole Lopez.
-    Geronimo Valentin Langenheim
+    Geronimo Valentin Langenheim.
 
 Tematica:
     Calculadora 
